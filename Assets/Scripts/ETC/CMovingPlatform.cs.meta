@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Scripts/ETC/CMovingPlatform.cs.meta
+guid: 74015155dbcb04a42883639854ef1c07
+=======
+guid: ab0cc36c414321748854535b3e942539
+>>>>>>> aa5c984e5c5323f37814e5214e7b9912da3c619a:Assets/Scripts/CMovingPlatform.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

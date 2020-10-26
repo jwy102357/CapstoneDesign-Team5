@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Scripts/ETC/ScrollingObject.cs.meta
+guid: 22bbf4d050937e34e92bb1ff1f01e00b
+=======
+guid: 3cc1b9c7b277a0645a032b7a8ef29bbc
+>>>>>>> aa5c984e5c5323f37814e5214e7b9912da3c619a:Assets/Scripts/ScrollingObject.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
